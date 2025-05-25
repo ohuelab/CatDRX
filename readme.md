@@ -62,7 +62,8 @@ python3 main_prediction.py \
 - Example dataset: `dataset/sm.csv`
 
 2. Fine-tuning the model 
-For yield prediction task
+
+#### For yield prediction task
 - Run the following command
 ```bash
 python3 main_finetune.py \
@@ -77,7 +78,8 @@ python3 main_finetune.py \
 --pretrained_file [pretrained_dataset] \
 --pretrained_time [pretrained_dataset_folder]
 ```
-For other catalystic activity prediction tasks
+
+#### For other catalystic activity prediction tasks
 - Run the following command
 ```bash
 python3 main_finetune_task.py \
