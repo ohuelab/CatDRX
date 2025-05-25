@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+*.sh
+/catcvae/__pycache__
+/dataset/sm_test1
