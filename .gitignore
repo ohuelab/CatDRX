@@ -3,3 +3,4 @@
 *.sh
 /catcvae/__pycache__
 /dataset/sm_test1
+/dataset/ps

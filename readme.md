@@ -120,7 +120,7 @@ python3 embeddingspace.py \
 - [dataset] = name of fine-tuned dataset without `.csv` extension
 - [pretrained_dataset] = name of the fine-tuned dataset without `.csv` extension (mostly save as above)
 - [pretrained_dataset_folder] = name of the fine-tuned dataset sub-folder (without `output_[seed]`)
-- The fined-tuned model will be saved in `dataset/[pretrained_dataset]/output_[seed]_[pretrained_dataset_folder]` folder
+- The result will be saved in `dataset/[pretrained_dataset]/output_[seed]_[pretrained_dataset_folder]` folder
 
 ### Generation and Optimization
 
@@ -144,7 +144,7 @@ python3 generation.py \
 - [from_around_mol_cond] = generate using sampled molecule's condition (disabled or enabled)
 - [from_training_space] = generate limited from the training space (disabled or enabled)
 - For other setups related to number of molecules, task-specific validity, and generation parameters, please directly edit the `generation.py` file
-- The fined-tuned model will be saved in `dataset/[pretrained_dataset]/output_[seed]_[pretrained_dataset_folder]` folder
+- The result will be saved in `dataset/[pretrained_dataset]/output_[seed]_[pretrained_dataset_folder]` folder
 
 2. Generate with optimization
 - Run the following command
@@ -160,7 +160,7 @@ python3 optimization.py \
 - [pretrained_dataset_folder] = name of the fine-tuned dataset sub-folder (without `output_[seed]`)
 - [opt_strategy] = optimization strategy (at_random', 'around_target')
 - For other setups related to number of molecules, objective function, and optimization parameters, please directly edit the `optimization.py` file
-- The fined-tuned model will be saved in `dataset/[pretrained_dataset]/output_[seed]_[pretrained_dataset_folder]` folder
+- The result will be saved in `dataset/[pretrained_dataset]/output_[seed]_[pretrained_dataset_folder]` folder
 
 ## Citation 📃
 > To be announced...
