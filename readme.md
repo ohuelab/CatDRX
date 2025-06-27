@@ -52,7 +52,7 @@ python3 main_prediction.py \
 - For other parameters, please refer to `catcvae/setup.py` file
 
 #### Use pre-trained model
-- Download the pre-trained model from [available soon...]()
+- Download the pre-trained model from [here](https://science-tokyo.box.com/s/9lx7hiv8tjggvpst20h8jr8ju61v5vtn)
 
 ### Fine-tuning
 
