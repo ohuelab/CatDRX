@@ -1,7 +1,7 @@
 # CatDRX: Reaction-Conditioned Generative Model for Catalyst Design and Optimization
 CatDRX, a catalyst discovery framework powered by a reaction-conditioned variational autoencoder generative model for generating catalysts and predicting their catalytic performance.
 
-![graphical abstract](https://github.com/ohuelab/CatDRX/blob/main/blob/graphicalabstract.png?raw=true)
+<img width="2930" height="967" alt="GraphicalAbstact-s" src="https://github.com/user-attachments/assets/0eea7867-1adc-49fd-a7cd-264ca3f5fd50" />
 
 ## Usage 💻
 
