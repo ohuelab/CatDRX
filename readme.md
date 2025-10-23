@@ -163,4 +163,4 @@ python3 optimization.py \
 - The result will be saved in `dataset/[pretrained_dataset]/output_[seed]_[pretrained_dataset_folder]` folder
 
 ## Citation 📃
-> To be announced...
+> - Kengkanna A., Kikuchi Y., Niwa T., Ohue M. **Reaction-conditioned generative model for catalyst design and optimization with CatDRX**. *Communications Chemistry*, 8: 314, 2025. [doi: 10.1038/s42004-025-01732-7](https://doi.org/10.1038/s42004-025-01732-7)
